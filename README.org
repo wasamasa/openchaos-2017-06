@@ -14,4 +14,4 @@ das Design, die Implementierung und die Features von Interim ein,
 zusätzlich dazu werden zur Veranschaulichung der Konzepte Demos
 gezeigt.
 
-[[https://koeln.ccc.de/updates/2017-06-02_OC-Interim.xml][OpenChaos-Ankündigung]]
+[[https://koeln.ccc.de/updates/2017-06-02_OC-Interim.xml][OpenChaos-Ankündigung]], [[https://media.ccc.de/v/c4.openchaos.2017.05.interim][Videoaufnahme]].
